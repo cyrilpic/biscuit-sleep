@@ -2,7 +2,7 @@
 
 Every body needs a good cookie.
 
-`Biscuit-sleep` is a collections of MATLAB functions and scripts for the quantification of stroke lesions from segmented MRI images and the processing of EEG data from sleep. It adds some tools on top of:
+`Biscuit-sleep` is a collections of MATLAB functions and scripts for the quantification of stroke lesions from segmented MRI images and the processing of hd-EEG data from sleep. It adds some tools on top of:
 * [EEGLAB](https://github.com/sccn/eeglab)
 * [csc-eeg-tools](https://github.com/CSC-UW/csc-eeg-tools)
 * [swa-matlab](https://github.com/Mensen/swa-matlab)
